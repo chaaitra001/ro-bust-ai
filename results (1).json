@@ -1,0 +1,38 @@
+[
+  {
+    "image_path": "sample_images/Codex Image Aug 31, 2026, 02_03_56 AM.png",
+    "pred": 0.7691
+  },
+  {
+    "image_path": "sample_images/bruno1",
+    "pred": 0.9295
+  },
+  {
+    "image_path": "sample_images/fruit",
+    "pred": 0.5367
+  },
+  {
+    "image_path": "sample_images/fruit1.jpeg",
+    "pred": 0.4879
+  },
+  {
+    "image_path": "sample_images/kim jong un.jpeg",
+    "pred": 0.9725
+  },
+  {
+    "image_path": "sample_images/kim jong un2.jpeg",
+    "pred": 0.7277
+  },
+  {
+    "image_path": "sample_images/neil armstronf.jpg",
+    "pred": 0.719
+  },
+  {
+    "image_path": "sample_images/orange",
+    "pred": 0.7691
+  },
+  {
+    "image_path": "sample_images/windows.jpg",
+    "pred": 0.9931
+  }
+]

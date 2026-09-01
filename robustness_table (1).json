@@ -1,0 +1,47 @@
+[
+  {
+    "condition": "clean",
+    "accuracy": 0.9161,
+    "auc": 0.9726
+  },
+  {
+    "condition": "jpeg_q30",
+    "accuracy": 0.8941,
+    "auc": 0.9575
+  },
+  {
+    "condition": "webp_q70",
+    "accuracy": 0.9099,
+    "auc": 0.9685
+  },
+  {
+    "condition": "png_roundtrip",
+    "accuracy": 0.9161,
+    "auc": 0.9726
+  },
+  {
+    "condition": "blur_s2.0",
+    "accuracy": 0.844,
+    "auc": 0.9191
+  },
+  {
+    "condition": "resize_0.25x",
+    "accuracy": 0.826,
+    "auc": 0.9071
+  },
+  {
+    "condition": "noise_s0.10",
+    "accuracy": 0.8607,
+    "auc": 0.9311
+  },
+  {
+    "condition": "color_jitter",
+    "accuracy": 0.9076,
+    "auc": 0.9681
+  },
+  {
+    "condition": "center_crop_80",
+    "accuracy": 0.8795,
+    "auc": 0.9499
+  }
+]
